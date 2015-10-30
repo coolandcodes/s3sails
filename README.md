@@ -1,6 +1,6 @@
 # S3 Sails Demo
 
-This is a S3 Sails Demo as explained [here]().
+This is a S3 Sails Demo as explained [here](http://blog.coolandcodes.com/uploading-files-to-amazon-s3-with-sails-js/).
 
 Clone this repository and run `npm install`.
 
